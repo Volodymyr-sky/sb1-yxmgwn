@@ -1,0 +1,76 @@
+{
+  "areas": [
+    {
+      "id": "artificial-intelligence",
+      "title": "Künstliche Intelligenz",
+      "slug": "ki",
+      "shortDescription": "KI-Lösungen für intelligente Geschäftsprozesse",
+      "description": "Nutzen Sie die Kraft der künstlichen Intelligenz für Ihr Unternehmen. Wir entwickeln maßgeschneiderte KI-Lösungen, die Ihre Geschäftsprozesse optimieren und automatisieren.",
+      "applications": [
+        "Predictive Analytics",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Computer Vision"
+      ],
+      "useCases": [
+        "Automatisierte Kundenservice",
+        "Predictive Maintenance",
+        "Datenanalyse",
+        "Prozessoptimierung"
+      ],
+      "image": "https://source.unsplash.com/random/800x600/?artificial-intelligence",
+      "meta": {
+        "title": "Künstliche Intelligenz | KI-Lösungen",
+        "description": "Innovative KI-Lösungen für Ihr Unternehmen. Optimieren Sie Ihre Geschäftsprozesse mit modernster künstlicher Intelligenz."
+      }
+    },
+    {
+      "id": "iot",
+      "title": "Internet of Things",
+      "slug": "iot",
+      "shortDescription": "Vernetzte Lösungen für die digitale Zukunft",
+      "description": "Entwickeln Sie intelligente, vernetzte Systeme mit unseren IoT-Lösungen. Wir unterstützen Sie bei der Implementation und Integration von IoT-Technologien in Ihre bestehende Infrastruktur.",
+      "applications": [
+        "Sensornetzwerke",
+        "Smart Buildings",
+        "Industrial IoT",
+        "Connected Devices"
+      ],
+      "useCases": [
+        "Automatisierung",
+        "Energiemanagement",
+        "Wartungsoptimierung",
+        "Datenerfassung"
+      ],
+      "image": "https://source.unsplash.com/random/800x600/?iot",
+      "meta": {
+        "title": "Internet of Things | IoT-Lösungen",
+        "description": "Professionelle IoT-Lösungen für Ihr Unternehmen. Vernetzen Sie Ihre Systeme für maximale Effizienz und Kontrolle."
+      }
+    },
+    {
+      "id": "big-data",
+      "title": "Big Data Analytics",
+      "slug": "big-data",
+      "shortDescription": "Datengetriebene Entscheidungen für Ihren Erfolg",
+      "description": "Nutzen Sie die Macht Ihrer Daten mit unseren Big Data Analytics Lösungen. Wir helfen Ihnen, wertvolle Erkenntnisse aus Ihren Daten zu gewinnen und datenbasierte Entscheidungen zu treffen.",
+      "applications": [
+        "Data Warehousing",
+        "Business Intelligence",
+        "Predictive Analytics",
+        "Data Visualization"
+      ],
+      "useCases": [
+        "Kundenanalyse",
+        "Marktforschung",
+        "Prozessoptimierung",
+        "Risikomanagement"
+      ],
+      "image": "https://source.unsplash.com/random/800x600/?data-analytics",
+      "meta": {
+        "title": "Big Data Analytics | Datenanalyse",
+        "description": "Professionelle Big Data Analytics für Ihr Unternehmen. Treffen Sie fundierte Entscheidungen basierend auf Ihren Daten."
+      }
+    }
+  ]
+}

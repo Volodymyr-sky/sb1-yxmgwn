@@ -1,0 +1,31 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Dr. Andreas Müller",
+      "position": "CTO",
+      "company": "TechCorp GmbH",
+      "quote": "Die IT-Lösungen haben unsere Geschäftsprozesse komplett transformiert. Die Expertise und Professionalität des Teams waren beeindruckend.",
+      "image": "https://source.unsplash.com/random/1024x480/?office",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Sandra Weber",
+      "position": "CEO",
+      "company": "Innovate AG",
+      "quote": "Herausragender Service und modernste Technologielösungen. Ein verlässlicher Partner für unsere digitale Transformation.",
+      "image": "https://source.unsplash.com/random/1024x480/?technology",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Martin Schmidt",
+      "position": "IT Director",
+      "company": "Global Solutions GmbH",
+      "quote": "Die Cloud-Migration war ein voller Erfolg. Das Team hat uns professionell durch den gesamten Prozess begleitet.",
+      "image": "https://source.unsplash.com/random/1024x480/?business",
+      "rating": 5
+    }
+  ]
+}

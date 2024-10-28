@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "id": "ai-partnership",
+      "title": "Neue KI-Partnerschaft angekündigt",
+      "slug": "ki-partnerschaft",
+      "date": "2023-12-01",
+      "author": "Dr. Michael Schmidt",
+      "category": "Künstliche Intelligenz",
+      "image": "https://source.unsplash.com/random/800x600/?artificial-intelligence",
+      "excerpt": "Wir freuen uns, unsere neue strategische Partnerschaft im Bereich künstlicher Intelligenz ankündigen zu können.",
+      "content": "Heute geben wir stolz unsere neue strategische Partnerschaft mit führenden KI-Forschern bekannt. Diese Zusammenarbeit wird es uns ermöglichen, noch innovativere und effizientere KI-Lösungen für unsere Kunden zu entwickeln.",
+      "meta": {
+        "title": "Neue KI-Partnerschaft | IT Company News",
+        "description": "IT Company kündigt neue strategische Partnerschaft im Bereich künstlicher Intelligenz an. Erfahren Sie mehr über unsere innovativen KI-Lösungen."
+      }
+    },
+    {
+      "id": "cybersecurity-trends",
+      "title": "Cybersecurity Trends 2024",
+      "slug": "cybersecurity-trends-2024",
+      "date": "2023-11-28",
+      "author": "Sarah Weber",
+      "category": "Cybersecurity",
+      "image": "https://source.unsplash.com/random/800x600/?cybersecurity",
+      "excerpt": "Bleiben Sie auf dem neuesten Stand der Cybersecurity-Entwicklungen mit unseren Einblicken in die wichtigsten Trends für 2024.",
+      "content": "Die Cybersecurity-Landschaft entwickelt sich ständig weiter. In diesem Artikel betrachten wir die wichtigsten Trends und Entwicklungen, die das Jahr 2024 prägen werden.",
+      "meta": {
+        "title": "Cybersecurity Trends 2024 | IT Security",
+        "description": "Aktuelle Cybersecurity-Trends und Entwicklungen für 2024. Erfahren Sie, wie Sie Ihr Unternehmen vor neuen Bedrohungen schützen können."
+      }
+    },
+    {
+      "id": "cloud-migration",
+      "title": "Erfolgreiche Cloud-Migration",
+      "slug": "cloud-migration-success",
+      "date": "2023-11-15",
+      "author": "Thomas Müller",
+      "category": "Cloud Computing",
+      "image": "https://source.unsplash.com/random/800x600/?cloud-computing",
+      "excerpt": "Erfahren Sie, wie wir einem großen Einzelhändler bei der erfolgreichen Migration in die Cloud unterstützt haben.",
+      "content": "In diesem Case Study berichten wir über die erfolgreiche Cloud-Migration eines führenden Einzelhandelsunternehmens. Lernen Sie aus den Erfahrungen und Best Practices dieses Projekts.",
+      "meta": {
+        "title": "Erfolgreiche Cloud-Migration | Case Study",
+        "description": "Case Study: Erfolgreiche Cloud-Migration eines Einzelhandelsunternehmens. Erfahren Sie mehr über unsere Cloud-Expertise."
+      }
+    }
+  ]
+}
